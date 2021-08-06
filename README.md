@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zelenikaleon
-- 👀 I’m interested in developing apps in Python  
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects that include developing apps and games
+- 👀 I’m interested in developing apps in java script
+- 🌱 I’m currently learning java script
+- 💞️ I’m looking to collaborate on projects for editing web sites making them interactive
 - 📫 How to reach me gmail:leon.zelenikaz@gmail.com
 
 <!---
